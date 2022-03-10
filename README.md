@@ -1,2 +1,2 @@
 # stepic_selenium_course
-https://stepik.org/course/575
+Ссылка на курс по Selenium https://stepik.org/course/575
